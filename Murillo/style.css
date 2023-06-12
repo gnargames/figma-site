@@ -1,10 +1,19 @@
+
+.titulomemes{
+
+text-align: center;
+color: #000;
+font-size: 30px;
+}
+.imgmemes{
+
+    width: 250px;
+
+    height: 250px;
+}
 .TodasAsImagens{
 
-display: grid;
-
-
-
-grid-template-columns: 20% 20% 20% 20% 20%;
-
-
-}
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+    }
